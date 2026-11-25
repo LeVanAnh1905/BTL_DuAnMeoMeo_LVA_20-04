@@ -15,4 +15,4 @@ Trang web tĩnh giới thiệu dịch vụ nhận nuôi mèo.
 
 Mở `index.html` trực tiếp bằng trình duyệt hoặc chạy một máy chủ tĩnh tại thư mục dự án.
 
-Khi triển khai, các tệp hình ảnh cần được đặt đúng các đường dẫn `assets/images/banner.jpg` và `assets/images/cat1.jpg` đến `cat9.jpg`.
+Khi triển khai, các tệp hình ảnh cần được đặt đúng các đường dẫn `assets/images/banner.jpg` và `assets/images/cat1.jpg` đến `cat9.jpg`
